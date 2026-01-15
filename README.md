@@ -37,7 +37,7 @@ Whiz - Content Creator, motivation.
 Vex - Contributor & Tester, came up with two ways to bypass the server anti-cheat, and also gave suggestions on what is next
 And also was behind the server breaker script that happened not to long ago...
 	
-The site-19 skiddies - You tried our best to mimic features you didn't have, it was cute, but better luck next time.
+The site-19 skiddies - You tried your best to mimic features you didn't have, it was cute, but better luck next time.
 ThunderGemios10 - Being lazy and not patching becuase they aren't "game breaking".
 	
 ---
