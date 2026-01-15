@@ -14,7 +14,7 @@ although we weren't the first ones to find it.
 We will not be naming the people that found the open all doors exploit first,
 but we have the most up most respect for them.
 	
-PS:
+## Highlights
 	
 Stellar/Trishdevs is a sad person.
 	
@@ -30,7 +30,8 @@ We'd also like to give thanks to the entire site-19 high command,
 you were our exact source of motivation, thank you for everything.
 	
 ------
-Special Thanks:
+## Special Thanks
+
 Whiz - Content Creator, motivation.
 	
 Vex - Contributor & Tester, came up with two ways to bypass the server anti-cheat, and also gave suggestions on what is next
@@ -41,5 +42,5 @@ ThunderGemios10 - Being lazy and not patching becuase they aren't "game breaking
 	
 ---
 	
-This UI will not be updated or compensated for future patches.
-Public complaint center: https://discord.gg/XKRbfaqdXz
+## This UI will not be updated or compensated for future patches.
+## Public complaint center: https://discord.gg/XKRbfaqdXz
