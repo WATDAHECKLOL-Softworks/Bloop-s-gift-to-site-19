@@ -39,7 +39,8 @@ And also was behind the server breaker script that happened not to long ago...
 	
 The site-19 skiddies - You tried your best to mimic features you didn't have, it was cute, but better luck next time.
 ThunderGemios10 - Being lazy and not patching becuase they aren't "game breaking".
-	
+
+Unnamed - Insipriation & Motivation, Behind the open all doors exploit and more.
 ---
 	
 ## This UI will not be updated or compensated for future patches.
