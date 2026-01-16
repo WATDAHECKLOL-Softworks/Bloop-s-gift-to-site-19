@@ -44,7 +44,7 @@ Unnamed - Insipriation & Motivation, Behind the open all doors exploit and more.
 
 ---
 	
-## This UI will not be updated or compensated for future patches.
+## This UI will not be updated or compensated for future patches, if a feature doesn't work, it's patched.
 ## Public complaint center: https://discord.gg/XKRbfaqdXz
 
 
